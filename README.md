@@ -1,7 +1,2 @@
-# my-commits
-Commitone
-commit2
-commit3
-commit4
-commit5
-6
+Commit 1 line ›
+Commit 1 line
